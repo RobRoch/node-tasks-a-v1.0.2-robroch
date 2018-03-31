@@ -202,7 +202,8 @@ Example output:
 
 Input: none. Output: JSON.
 
-### GET /linked/promise
+//Will do them later, need to practise basics.
+<!--### GET /linked/promise
 Add `GET /linked/promise` endpoint
 that has the same output as `GET /linked/callback`
 but uses promises instead of callbacks
@@ -222,5 +223,5 @@ Input: none. Output: JSON.
 Add tests for the `/data/{id}` endpoints
 using a test framework of your choice.
 Choose the kind of tests that are most reasonable in your opinion.
-The tests should be run with `npm test` command.
+The tests should be run with `npm test` command.-->
 
